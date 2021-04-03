@@ -1,0 +1,16 @@
+C:\Users\berti\digital\bin\Debug\net5.0\digital.exe
+C:\Users\berti\digital\bin\Debug\net5.0\digital.deps.json
+C:\Users\berti\digital\bin\Debug\net5.0\digital.runtimeconfig.json
+C:\Users\berti\digital\bin\Debug\net5.0\digital.runtimeconfig.dev.json
+C:\Users\berti\digital\bin\Debug\net5.0\digital.dll
+C:\Users\berti\digital\bin\Debug\net5.0\ref\digital.dll
+C:\Users\berti\digital\bin\Debug\net5.0\digital.pdb
+C:\Users\berti\digital\obj\Debug\net5.0\digital.csprojAssemblyReference.cache
+C:\Users\berti\digital\obj\Debug\net5.0\digital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berti\digital\obj\Debug\net5.0\digital.AssemblyInfoInputs.cache
+C:\Users\berti\digital\obj\Debug\net5.0\digital.AssemblyInfo.cs
+C:\Users\berti\digital\obj\Debug\net5.0\digital.csproj.CoreCompileInputs.cache
+C:\Users\berti\digital\obj\Debug\net5.0\digital.dll
+C:\Users\berti\digital\obj\Debug\net5.0\ref\digital.dll
+C:\Users\berti\digital\obj\Debug\net5.0\digital.pdb
+C:\Users\berti\digital\obj\Debug\net5.0\digital.genruntimeconfig.cache
